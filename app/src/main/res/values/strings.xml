@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">SearchPhoto</string>
+  <string name="fragment_1">画像検索</string>
+  <string name="fragment_2">いいね！</string>
+  <string name="data_end">検索結果がありません。</string>
+  <string name="empty_warning">キーワードが空白です。</string>
+</resources>
